@@ -13,7 +13,7 @@ authors = [{ name = "Trevor Smith" }]
 dependencies = [
   "torch",
   "pandas",
-  "scikit-learn",
+  "scikit-learn"
 ]
 
 [tool.setuptools.packages.find]
