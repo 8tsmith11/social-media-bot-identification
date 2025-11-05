@@ -1,0 +1,14 @@
+# venv
+jupyteren/
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
